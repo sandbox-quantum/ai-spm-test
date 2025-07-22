@@ -5,10 +5,14 @@ A repository containing code samples demonstrating the use of various AI assets:
 ## Contents
 The following folders contain examples and tutorials from popular AI frameworks and libraries.
 
+- `autogen`: Tutorials for Microsoft's `autogen` library
 - `google`: Tutorials for Google's `genai`, `Vertex AI` and `adk`
 - `huggingface`: Examples loading models from the Huggingface Hub
 - `keras`: Examples using the Keras library
+- `langchain`: Examples using LangChain and LangGraph
+- `litellm`: Examples using the LiteLLM wrapper
 - `mcp`: MCP server tutorials
+- `openai`: Examples for OpenAI's SDK
 
 ## Note on ownership and runtime
 These samples were copied from a variety of tutorials freely available on the internet. We've included links to their original sources, their original ownership and licenses apply.
